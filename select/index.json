@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "陽のあたる坂道",
+  "base_artist": "Do As Infinity",
+  "createdAt": "2026-02-24T11:30:52.373140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "<陽のあたる坂道>24の前奏曲 作品28の15 変ニ長調 「雨だれ」",
+      "artist": "ビアンカ・シツィウス",
+      "has_synced": false,
+      "path": "select/01_陽のあたる坂道_24の前奏曲_作品28の15_変ニ長調_「雨だれ」_ビアンカ・シツィウス.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "陽のあたる坂道",
+      "artist": "Do As Infinity",
+      "has_synced": false,
+      "path": "select/02_陽のあたる坂道_Do_As_Infinity.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "陽のあたる坂道(Do As Infinity Acoustic Tour 2016 -2 of Us-)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/03_陽のあたる坂道(Do_As_Infinity_Acoustic_Tour_2016_-2_of_Us-)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "陽のあたる坂道",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/04_陽のあたる坂道_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "陽のあたる坂道",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/05_陽のあたる坂道_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "陽のあたる坂道",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/06_陽のあたる坂道_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "陽のあたる坂道",
+      "artist": "Do As Infinity",
+      "has_synced": false,
+      "path": "select/07_陽のあたる坂道_Do_As_Infinity.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "陽のあたる坂道",
+      "artist": "DoAsInfinity",
+      "has_synced": false,
+      "path": "select/pl_01_陽のあたる坂道_DoAsInfinity.txt"
+    }
+  ]
+}
